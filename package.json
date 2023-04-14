@@ -1,10 +1,10 @@
 {
-  "name": "urlpattern-polyfill",
+  "name": "urlpattern-polyfill-no-unicode",
   "version": "7.0.0",
   "description": "Polyfill for the URLPattern API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenchris/urlpattern-polyfill"
+    "url": "https://github.com/staltz/urlpattern-polyfill-no-unicode"
   },
   "type": "module",
   "main": "./index.cjs",
