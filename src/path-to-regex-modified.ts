@@ -524,7 +524,7 @@ function escapeString(str: string) {
  * Get the flags for a regexp from the options.
  */
 function flags(options?: { ignoreCase?: boolean }) {
-  return options && options.ignoreCase ? "ui" : "u";
+  return options && options.ignoreCase ? "i" : "";
 }
 
 /**
